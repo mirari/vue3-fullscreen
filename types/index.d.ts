@@ -62,7 +62,7 @@ export declare const directive: Directive
 
 export default VueFullscreen
 
-declare module '@vue/runtime-core' {
+declare module 'vue' {
   interface ComponentCustomProperties {
     $fullscreen: VueFullscreen.VueFullscreenApi
   }
