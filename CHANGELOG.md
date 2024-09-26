@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [3.1.3](https://github.com/mirari/vue-fullscreen/compare/v3.1.2...v3.1.3) (2024-09-26)
+
+
+### Bug Fixes
+
+* fix the issue of incorrect entry reference caused by the unspecified type in package.json ([bac7709](https://github.com/mirari/vue-fullscreen/commit/bac77097bd5b1b28526885d08191c3ce562714c1))
+
 ### [3.1.2](https://github.com/mirari/vue-fullscreen/compare/v3.1.1...v3.1.2) (2024-06-24)
 
 ### [3.1.1](https://github.com/mirari/vue-fullscreen/compare/v3.1.0...v3.1.1) (2021-11-16)
